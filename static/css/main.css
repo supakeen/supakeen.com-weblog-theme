@@ -104,12 +104,13 @@ a:hover {
 	text-decoration: none;
 }
 
-code {
+code, cite {
 	display: inline-block;
 	font-family: "Inconsolata";
 	padding: 2px;
 	background-color: #111;
 	color: #fefefe;
+    font-style: normal;
 }
 
 footer {

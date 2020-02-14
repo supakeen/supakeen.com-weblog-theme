@@ -45,7 +45,7 @@ header h1 {
     font-size: 3rem;
     padding-bottom: 1rem;
     border-bottom: .5rem solid #54fc54;
-    margin: 2rem 0;
+    margin: 2rem 1rem;
 }
 
 header h1 a {
@@ -71,9 +71,13 @@ p, ul, footer {
     line-height: 1.5rem;
 }
 
+p {
+    margin: 1rem;
+}
+
 ul {
     padding: 0;
-    margin: 0;
+    margin: 0 1rem;
     list-style: none;
 }
 
@@ -118,7 +122,7 @@ code, cite {
 }
 
 footer {
-    margin: 2rem 0;
+    margin: 2rem 1rem;
     border-top: .5rem solid #54fc54;
     text-align: center;
 }
@@ -140,7 +144,6 @@ blockquote {
     height: 165px;
     display: table-cell;
     vertical-align: middle;
-    width: 800px;
+    width: 9999px;
     position: relative;
-    left: -.5rem;
 }

@@ -124,3 +124,21 @@ footer {
 footer p {
     font-size: 10px;
 }
+
+blockquote {
+    font-family: "Keen 4";
+    background: #fefefe;
+    color: #333;
+    padding: 2rem 2rem 2rem 12rem;
+    border: .5rem solid #3ea8a7;
+    margin: 0;
+    background-image: url("../images/keen1.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    height: 165px;
+    display: table-cell;
+    vertical-align: middle;
+    width: 800px;
+    position: relative;
+    left: -.5rem;
+}

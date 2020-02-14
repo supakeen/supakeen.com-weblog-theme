@@ -23,7 +23,7 @@
 }
 
 html {
-    background: linear-gradient(to bottom, #222, #111);
+    background-color: #111;
     background-attachment: fixed;
     color: #54fc54;
     min-height: 100%;
